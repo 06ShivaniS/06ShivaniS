@@ -1,4 +1,4 @@
-
+![logo](https://github.com/06ShivaniS/06ShivaniS/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shivani Sharma</h1>
 <h3 align="center">An Associate Project Manager</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bb54e6a9f4d87a0394e13721df2e9fde5e339520b0e14a5ac42dde25215809ed/68747470733a2f2f6d656469612e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
